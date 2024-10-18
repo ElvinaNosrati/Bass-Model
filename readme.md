@@ -43,7 +43,7 @@ Bass-Model/
   - `report.pdf`: The final report in **PDF format**, containing all the analysis, plots, and conclusions.
 
 - **readme.md**:
-  - The documentation file you’re currently working on, which provides an overview of the project and instructions for usage.
+  - The documentation file, which provides an overview of the project and instructions for usage.
 
 - **script1.py**:
   - This Python script generates the **BMW sales plot** from the historical sales data.
