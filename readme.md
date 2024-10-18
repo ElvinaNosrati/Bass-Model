@@ -10,7 +10,7 @@ The project involves:
 - Estimating the number of new and cumulative adopters over the next 20 years.
   
 ### Project Structure
-
+```
 Bass-Model/
 ├── data/
 │   ├── bmw_electric_sales.xlsx          
@@ -26,7 +26,7 @@ Bass-Model/
 ├── script1.py                           
 ├── script2.py                           
 
-
+```
 ### Explanation:
 
 - **data/**:
