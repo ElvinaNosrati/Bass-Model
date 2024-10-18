@@ -30,7 +30,7 @@ Bass-Model/
 ### Explanation:
 
 - **data/**:
-  - `bmw_electric_sales.xlsx`: The Excel file containing historical sales data for the **BMW i series** from 2014 to 2018.
+  - `bmw_electric_sales.xlsx`: The Excel file containing historical sales data for the **BMW i series** from 2014 to 2022.
   - `lucid_air_adoption_prediction.csv`: A CSV file containing the predicted adoption for **Lucid Air** over the next 20 years.
 
 - **img/**:
